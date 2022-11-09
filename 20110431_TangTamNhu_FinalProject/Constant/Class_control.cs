@@ -12,11 +12,11 @@ namespace _20110431_TangTamNhu_FinalProject
     {
         #region board chess
         //so luong button
-        public static int chess_width = 30; //do rong cua button, 'static' de class khac goi thong qua ten class
-        public static int chess_height = 30; //do cao cua button
+        public static int chess_width = 35; //do rong cua button, 'static' de class khac goi thong qua ten class
+        public static int chess_height = 35; //do cao cua button
             //set do rong do cao so luong button trong ban co
-        public static int chess_board_width = 2;
-        public static int chess_board_height = 2;
+        public static int chess_board_width = 20;
+        public static int chess_board_height = 15;
         #endregion
 
         #region language
